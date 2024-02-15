@@ -1,7 +1,7 @@
 {
 
     "manifest_version": 2,
-    "name": "Youtube Silent Ad",
+    "name": "Youtube Silent Ads",
     "version": "1.0",
   
     "description": "Mute video ads and skip them when possible. close text and image banner on Youtube",

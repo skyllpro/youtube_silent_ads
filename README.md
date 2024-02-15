@@ -9,3 +9,6 @@ mute video ads and skip them when possible. close text and image banner on Youtu
 put the code, ressources and manifest to a zip file
 
 check [firefox doc](https://extensionworkshop.com/documentation/publish/package-your-extension/) if needed
+# youtube_silent_ads
+# you can add to edge, chromium
+# fixed class modern

@@ -14,7 +14,7 @@ if (document.location.host === "www.youtube.com") {
           document.querySelector("video").muted = true
           currentlyPlayingAd = true
         }
-        let skipAd = document.querySelector("button.ytp-ad-skip-button")
+        let skipAd = document.querySelector("button.ytp-ad-skip-button-modern")
         if (skipAd) {
           skipAd.click()
         }
