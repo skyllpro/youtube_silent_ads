@@ -10,6 +10,7 @@ if (document.location.host === "www.youtube.com") {
       }
 
       if (videoAdBanner !== null) {
+        let currentlyPlayingAd = false
         if (!currentlyPlayingAd) {
           var videoAds = document.querySelector("video")
           videoAds.muted = true
